@@ -188,6 +188,14 @@ export const dataPortfolio = [
         urlDemo: "#!",
     },
 
+    {
+        id: 4,
+        title: "Portfolio",
+        image: "/image-3.jpg",
+        urlGithub: "https://github.com/BenjaminVega-git/Portfolio",
+        urlDemo: "#!",
+    },
+
 ];
 
 export const dataTestimonials = [
